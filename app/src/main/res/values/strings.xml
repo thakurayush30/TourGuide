@@ -1,0 +1,64 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Rishikesh Tour Guide</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Landscapes</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Treks</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Hotels</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Temples</string>
+
+    <!-- Vocabulary word for the color red [CHAR LIMIT=20] -->
+    <string name="trek">Madmaheshwar Trek</string>
+
+    <!-- Vocabulary word for the color dusty yellow [CHAR LIMIT=20] -->
+    <string name="color_dusty_yellow">dusty yellow</string>
+
+    <!-- Vocabulary word for the color mustard yellow [CHAR LIMIT=20] -->
+    <string name="color_mustard_yellow">mustard yellow</string>
+
+    <!-- Vocabulary word for the color green [CHAR LIMIT=20] -->
+    <string name="color_green">green</string>
+
+    <!-- Vocabulary word for the color brown [CHAR LIMIT=20] -->
+    <string name="color_brown">brown</string>
+
+    <!-- Vocabulary word for the color black [CHAR LIMIT=20] -->
+    <string name="color_black">black</string>
+
+    <!-- Vocabulary word for the color gray [CHAR LIMIT=20] -->
+    <string name="color_gray">gray</string>
+
+    <!-- Vocabulary word for the color white [CHAR LIMIT=20] -->
+    <string name="color_white">white</string>
+
+    <!-- Vocabulary word for the number one [CHAR LIMIT=20] -->
+    <string name="hotel">The Ell Bee Ganga View</string>
+
+    <!-- Vocabulary word for the father family member [CHAR LIMIT=20] -->
+    <string name="temple">Virbhadra Temple</string>
+
+    <!-- Vocabulary phrase for "Where are you going?" [CHAR LIMIT=30] -->
+    <string name="landscape">Shivpuri</string>
+
+</resources>
